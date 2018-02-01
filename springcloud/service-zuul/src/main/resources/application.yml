@@ -1,0 +1,13 @@
+server:
+  port: 8768
+spring:
+  application:
+    name: service-zuul
+zuul:
+  routes:
+    api-a:
+      path: /api-v1/**
+      serviceId: SPRING-CLOUD-CLI
+    api-b:
+      path: /api-v2/**
+      serviceId: SERVICE-HYSTRIX

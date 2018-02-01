@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name:
+    username:
+    password:
+    url:
+  freemarker:
+    prefix:
+    suffix:
+#tomcat
+server:
+  port: 9999
+

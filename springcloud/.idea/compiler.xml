@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="service-feign" />
+        <module name="service-hystrix" />
+        <module name="service-hystrix-feign" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="spring-cloud-cli" />
+        <module name="spring-cloud-hi" />
+        <module name="spring-cloud-server" />
+        <module name="springcloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-hystrix" target="1.8" />
+      <module name="service-hystrix-feign" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="spring-cloud-cli" target="1.8" />
+      <module name="spring-cloud-hi" target="1.8" />
+      <module name="spring-cloud-server" target="1.8" />
+      <module name="springcloud" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

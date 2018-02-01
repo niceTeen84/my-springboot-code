@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kkk.iml" filepath="$PROJECT_DIR$/.idea/modules/kkk.iml" group="kkk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kkk/kkk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kkk/kkk_main.iml" group="kkk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kkk/kkk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kkk/kkk_test.iml" group="kkk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rbw.iml" filepath="$PROJECT_DIR$/.idea/modules/rbw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rbw_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rbw_main.iml" group="rbw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rbw_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rbw_test.iml" group="rbw" />
+    </modules>
+  </component>
+</project>
